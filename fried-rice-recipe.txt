@@ -1,0 +1,6 @@
+1. eggs
+2. spam
+3. soy sauce
+4. garlic
+5. rice
+6. green onion
